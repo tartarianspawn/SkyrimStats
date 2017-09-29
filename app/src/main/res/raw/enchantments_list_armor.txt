@@ -1,0 +1,342 @@
+Fortify Alchemy
+1
+1
+0
+1
+1
+0
+0
++8% potion strength
+Fortify Alteration
+1
+1
+1
+0
+1
+0
+0
+-8% casting cost
+Fortify Archery
+1
+1
+0
+1
+1
+0
+0
++13% damage
+Fortify Barter
+0
+1
+0
+0
+0
+0
+0
+Prices improved by 8%
+Fortify Block
+0
+1
+0
+1
+1
+0
+1
++13% damage blocked
+Fortify Conjuration
+1
+1
+1
+0
+1
+0
+0
+-8% casting cost
+Fortify Destruction
+1
+1
+1
+0
+1
+0
+0
+-8% casting cost
+Fortify Heavy Armor
+0
+1
+1
+1
+1
+0
+0
++8 skill
+Fortify Illusion
+1
+1
+1
+0
+1
+0
+0
+-8% casting cost
+Fortify Light Armor
+0
+1
+1
+1
+1
+0
+0
++8 skill
+Fortify Lockpicking
+1
+1
+0
+1
+1
+0
+0
++13% more effective
+Fortify One-Handed
+0
+1
+0
+1
+1
+1
+0
++13% damage
+Fortify Pickpocket
+0
+1
+0
+1
+1
+1
+0
++13% multiplier to success chance
+Fortify Restoration
+1
+1
+1
+0
+1
+0
+0
+-8% casting cost
+Fortify Smithing
+0
+1
+1
+1
+1
+0
+0
++8% tempering strength
+Fortify Sneak
+1
+0
+1
+1
+1
+0
+0
++13% more effective
+Fortify Two-Handed
+0
+1
+0
+1
+1
+1
+0
++13% damage
+Fortify Healing Rate
+0
+1
+1
+0
+1
+0
+0
++10% rate
+Fortify Health
+0
+1
+1
+0
+1
+0
+1
++20 health
+Fortify Magicka
+1
+1
+0
+1
+1
+0
+0
++20 magicka
+Fortify Magicka Regen
+1
+0
+1
+0
+1
+0
+0
++20% rate
+Fortify Stamina
+0
+1
+1
+0
+1
+1
+0
++20 stamina
+Fortify Stamina Regen
+0
+1
+1
+0
+1
+1
+0
++10% rate
+Fortify Carry Weight
+0
+1
+0
+1
+1
+1
+0
++15 carry capacity
+Fortify Alteration & Magicka Regen
+0
+0
+1
+0
+0
+0
+0
+-5% casting cost 10% Magicka Regen
+Fortify Conjuration & Magicka Regen
+0
+0
+1
+0
+0
+0
+0
+-5% casting cost 10% Magicka Regen
+Fortify Destruction & Magicka Regen
+0
+0
+1
+0
+0
+0
+0
+-5% casting cost 10% Magicka Regen
+Fortify Illusion & Magicka Regen
+0
+0
+1
+0
+0
+0
+0
+-5% casting cost 10% Magicka Regen
+Fortify Restoration & Magicka Regen
+0
+0
+1
+0
+0
+0
+0
+-5% casting cost 10% Magicka Regen
+Fortify Unarmed
+0
+0
+0
+1
+1
+0
+0
++5 damage
+Resist Disease
+0
+1
+1
+0
+1
+0
+1
++25% more resistant
+Resist Fire
+0
+1
+0
+0
+1
+1
+1
++15% more resistant
+Resist Frost
+0
+1
+0
+0
+1
+1
+1
++15% more resistant
+Resist Magic
+0
+1
+0
+0
+1
+0
+1
++8% more resistant
+Resist Poison
+0
+1
+1
+0
+1
+0
+1
++15% more resistant
+Resist Shock
+0
+1
+0
+0
+1
+1
+1
++15% more resistant
+Muffle
+0
+0
+0
+0
+0
+1
+0
+Wearer is muffled and moves silently
+Waterbreathing
+1
+1
+0
+0
+1
+0
+0
+Can breath underwater without drowning

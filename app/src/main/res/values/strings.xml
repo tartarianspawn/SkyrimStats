@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SkyrimStats</string>
+    <string name="alchemy">ALCHEMY</string>
+    <string name="enchanting">ENCHANTING</string>
+    <string name="potions">POTIONS</string>
+    <string name="ingredients">INGREDIENTS</string>
+    <string name="mixing">MIXING</string>
+    <string name="armor">ARMOR</string>
+    <string name="weapons">WEAPONS</string>
+    <string name="title_activity_alchemy">AlchemyActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

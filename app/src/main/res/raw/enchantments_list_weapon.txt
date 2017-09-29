@@ -1,0 +1,51 @@
+Absorb Health
+Destruction
+Absorb 8 points of health
+Absorb Magicka
+Destruction
+Absorb 10 points of magicka
+Absorb Stamina
+Destruction
+Absorb 10 points of stamina
+Fire
+Destruction
+10 Damage
+Frost
+Destruction
+10 Damage & 50% slow for 2s
+Damage Magicka
+Destruction
+Deals 15 points of magicka damage
+Shock
+Destruction
+10 Damage
+Damage Stamina
+Destruction
+Deals 15 points of stamina damage
+Banish
+Conjuration
+Level 10
+Fear
+Illusion
+Level 10
+Turn Undead
+Restoration
+Level 10
+Paralyze
+Alteration
+25% chance for 2s
+Soul Trap
+Conjuration
+4s
+Fireysoul Trap
+Conjuration
+5s & 10 points of fire damage
+Huntsman's Prowess
+Destruction
++3 damage vs. Animals
+Notched Pickaxe
+Destruction
+5 shock damage & +5 smithing
+Silent Moons Enchant
+Destruction
++10 damage under moonlight

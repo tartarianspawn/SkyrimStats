@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.omarl.skyrimstats.HomeActivity">
+
+    <TextView
+        android:id="@+id/home_title_alchemy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/alchemy" />
+
+    <TextView
+        android:id="@+id/home_title_enchanting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/enchanting"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:id="@+id/alchemy_imageButton"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_below="@+id/home_title_alchemy"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/skill_alchemy" />
+
+    <ImageButton
+        android:id="@+id/enchanting_imageButton"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_below="@+id/home_title_enchanting"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/skill_enchanting" />
+
+
+</RelativeLayout>
